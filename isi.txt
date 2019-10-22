@@ -1,0 +1,3 @@
+- ini kalimat 1
+- ini kalimat 2
+- ini kalimat 3
