@@ -1,3 +1,7 @@
 - ini kalimat 1
 - ini kalimat 2
 - ini kalimat 3
+
+- ini menarik 1
+- ini menarik 2
+- ini menarik 1
